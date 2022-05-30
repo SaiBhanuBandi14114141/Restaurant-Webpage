@@ -1,0 +1,98 @@
+.bookingbody{
+    text-align: center; 
+    color:pink;
+    background-image: url('booking1.jpg');
+    background-repeat: no-repeat;
+    background-size: 1280px 575px;
+}
+.mainbody
+{
+    text-align: center; 
+    color:pink;
+    background-image: url('main.jpg');
+    background-repeat: no-repeat;
+    background-size: 1280px 575px;
+    padding-top: 35px;
+}
+.menubody{
+    text-align: center; 
+    color:pink;
+    background-image: url('menuitems.jpg');
+    background-repeat: no-repeat;
+    background-size: 1280px 1150px;
+}
+#name,#date,#time,#peoplecount
+{
+    padding: 9px;
+    text-align: center;
+    border-radius: 10px;
+    background-color:;
+    font-size: large;
+}
+#back
+{
+    color: white;
+    background-color: rgb(223, 19, 182);
+    border-radius: 20px;
+    padding: 15px;
+    font-size:large; 
+    cursor: pointer;  
+}
+#submit
+{
+    color: white;
+    background-color: rgb(17, 233, 17);
+    border-radius: 20px;
+    padding: 15px;
+    font-size: large;
+    cursor: pointer;
+}
+div
+{
+    padding: 35px;
+}
+#menu,#reserve
+{
+    padding: 25px;
+    border: solid grey 2px;
+    border-radius: 25px;
+    color: white;
+    font-size: 150%;
+    cursor: pointer;
+}
+#menu
+{
+    background-color: rgb(95, 245, 21);
+    
+}
+#reserve
+{
+    background-color: rgb(238, 55, 208);
+}
+h2
+{
+    display: flex;
+    justify-content: space-between;
+    border: solid lightblue;
+    border-radius: 10px;
+    color: yellow;
+}
+.menubody
+{
+    background-color: grey;
+    padding: 10px 200px;
+    color: white;
+    text-align: center;
+    
+}
+h1
+{
+    text-align: center;
+    color:white;
+}
+#heading
+{
+    display: flex;
+    justify-content: space-between;
+    color:aquamarine;
+}
